@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LT Baking Tutorials</string>
+    <string name="ForgotPass"><u>Forgot Password?</u></string>
+    <string name="Register"><u>Tap here to Sign Up</u></string>
+    <string name="BacktoLogin"><u>Back to Login</u></string>
+    <string name="gotoadmin"><u>Access admin</u></string>
+    <string name="RobinData">By: <u>Robin Data</u></string>
+    <string name="Developers">Developed by: <b>Robin A. Data &amp; Jose Alejandro C. Reyes</b></string>
+    <string name="sponsors">Powered by: <big><b>P r i s m o</b></big></string>
+    <string name="importanttext"><small>This app may collect anonymous usage data.</small></string>
+    <string name="ViewFullRecipe"><u>View Full Recipe</u></string>
+    <string name="question"><u>What pastry would you like us to create a</u></string>
+    <string name="questionnl"><u>tutorial on?</u></string>
+    <string name="passwordnotmatch">Password does not match!</string>
+    <string name="enter_your_password">Enter your password</string>
+</resources>
